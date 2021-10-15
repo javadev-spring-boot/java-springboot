@@ -1,8 +1,8 @@
-com/example/demo/ThymeleafDemoApplication.java
- com.example.demo.ThymeleafDemoApplication
+com/example/demo/rest/Contact.java
+ com.example.demo.rest.Contact
 com/example/demo/rest/ContactService.java
  com.example.demo.rest.ContactService
 com/example/demo/rest/DemoController.java
  com.example.demo.rest.DemoController
-com/example/demo/rest/Contact.java
- com.example.demo.rest.Contact
+com/example/demo/Application.java
+ com.example.demo.Application
